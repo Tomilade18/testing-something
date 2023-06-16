@@ -13,5 +13,23 @@
 }
 
 .app-info {
-    
+    width: 375px;
+    height: 399px;
+}
+
+.login-fields {
+    width: 375px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+}
+
+.login-fields input {
+    width: 70%;
+    height: 30%;
+}
+
+.login-button {
+    width: 375px;
+ height: 96px;
 }

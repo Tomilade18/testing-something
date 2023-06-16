@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    height: 110%;
+    background-color: black;
+}
+
+.inner-container {
+    position: absolute;
+    background: url('../img/Background.jpg');
+     width: 375px;
+     height: 667px;
+     right: 40%;
+}
+
+.app-info {
+    
+}

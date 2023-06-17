@@ -53,8 +53,11 @@
     align-items: center;
 }
 
-.login-button h1 {
-    font-size: 15px;
+h1 {
+    font-size: 11px;
+    font-weight: normal;
     font-family: Arial;
-    
+    color: white;
+    margin-top: -20;
+    margin-left: 57px;
 }

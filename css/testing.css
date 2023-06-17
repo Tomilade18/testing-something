@@ -19,12 +19,22 @@
 
 .app-info-container {
     width: 225px;
-    height: ;
+    height: 185px;
+    margin-left: 20px;
 }
 
-.h1 {
+.app-info-container h1 {
     color: white;
     font-family: arial;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.app-info-container h4 {
+    color: white;
+    font-family: arial;
+    font-weight: 200;
+    font-size: 12px;
 }
 
 .login-fields {

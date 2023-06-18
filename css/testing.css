@@ -18,9 +18,11 @@
 }
 
 .app-info-container {
-    width: 225px;
+    width: 200px;
     height: 185px;
     margin-left: 20px;
+    margin-top: 30px;
+    padding: 0;
 }
 
 .app-info-container h1 {
@@ -28,6 +30,7 @@
     font-family: arial;
     font-weight: 500;
     font-size: 40px;
+
 }
 
 .app-info-container h4 {

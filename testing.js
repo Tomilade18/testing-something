@@ -1,1 +1,7 @@
-console.log('i fit do am')
+const LogButton = document.getElementById("buttton");
+
+function handleLogButton(e) {
+    
+}
+
+LogButton.addEventListener("click", handleLogButton)
